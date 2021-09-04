@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.freepik.com/fotos-gratis/museu-louvre-em-paris-franca_181624-26970.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-prevencao-de-recuperacao-de-epidemia_114360-3008.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 ##  Análise de Dados do Airbnb de Paris
