@@ -6,7 +6,7 @@
 
 Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link para o projeto completo](https://thalesferraz.medium.com/o-que-os-dados-nos-dizem-sobre-a-covid-19-96a2a7a984f4)
 
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium]()
