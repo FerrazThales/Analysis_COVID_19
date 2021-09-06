@@ -11,6 +11,11 @@ Como os dados públicos podem ajudar na tomada de decisões das pessoas e dos go
 Nesta análise pretendi investigar o avanço da COVID-19 no mundo através de dados e fatos. Com isso, utilizei métricas estatísticas e visualizações gráficas para melhor explorar as informações. 
 
 <p>
+Qual foi a taxa de crescimento de casos do vírus? E a taxa de letalidade? A vacinação colabora para a diminuição de mortos na pandemia? Todos os países enfrentaram esta enfermidade da mesma maneira? No triste ranking de mortos, quais países se sobresaíram?
+  
+</p>
+
+<p>
   
 **Links para me acharem:**
 * [Artigo meu desse projeto no Medium](https://thalesferraz.medium.com/o-que-os-dados-nos-dizem-sobre-a-covid-19-96a2a7a984f4)
