@@ -12,6 +12,11 @@ Nesta análise pretendi investigar o avanço da COVID-19 no mundo através de da
 
 <p>
 Qual foi a taxa de crescimento de casos do vírus? E a taxa de letalidade? A vacinação colabora para a diminuição de mortos na pandemia? Todos os países enfrentaram esta enfermidade da mesma maneira? No triste ranking de mortos, quais países se sobresaíram?
+</p>
+
+<p>
+  
+A resposta para esta e outras perguntas podem ser encontradas no meu [Repositório do Github]()
   
 </p>
 
