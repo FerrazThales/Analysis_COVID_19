@@ -16,7 +16,7 @@ Qual foi a taxa de crescimento de casos do vírus? E a taxa de letalidade? A vac
 
 <p>
   
-A resposta para esta e outras perguntas podem ser encontradas no meu [Repositório do Github]()
+A resposta para esta e outras perguntas podem ser encontradas no meu [Repositório do Github sobre a COVID-19](https://github.com/FerrazThales/Analysis_COVID_19/blob/953e1c68ee2c8cafad48ac17f6ed32ef1239b586/Panorama_da_COVID_19.ipynb)
   
 </p>
 
