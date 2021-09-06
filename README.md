@@ -4,7 +4,8 @@
 
 ##  Análise de Dados sobre a COVID-19
 
-Uma breve descrição do meu projeto, que eu fiz com muito cuidado e atenção aos detalhes, chamando as pessoas para que entrem no meu notebook.
+Como os dados públicos podem ajudar na tomada de decisões das pessoas e dos governos durante a pandemia?
+Nesta análise pretendi abordar o
 
 
 **Links para me acharem:**
