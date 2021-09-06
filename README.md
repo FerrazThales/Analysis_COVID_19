@@ -5,7 +5,7 @@
 ##  Análise de Dados sobre a COVID-19
 
 Como os dados públicos podem ajudar na tomada de decisões das pessoas e dos governos durante a pandemia?
-Nesta análise pretendi abordar o
+Nesta análise pretendi investigar o avanço da COVID-19 no mundo através de dados e fatos. Com isso, utilizei métricas estatísticas e visualizações gráficas para melhor explorar as informações.
 
 
 **Links para me acharem:**
