@@ -33,6 +33,7 @@ A resposta para esta e outras perguntas podem ser encontradas no meu [Repositór
   
 ## Outros Projetos:
 
+* **[Saúde dos Fetos e a Inteligência Artificial — Uma questão de política pública](https://github.com/FerrazThales/Fetal_Health_Classification)**
 * **[A Inteligência Artificial e a Segurança Pública](https://thalesferraz.medium.com/a-intelig%C3%AAncia-artificial-e-a-seguran%C3%A7a-p%C3%BAblica-495a2e4efcf5)**
 * **[Análise dos dados do Airbnb de Paris](https://thalesferraz.medium.com/an%C3%A1lise-dos-dados-do-airbnb-de-paris-337238b3e4c3)**
 * **[Churn Prediction — Como saber quais clientes vão deixar sua empresa.](https://thalesferraz.medium.com/churn-prediction-como-saber-quais-clientes-v%C3%A3o-deixar-sua-empresa-a02f65c68167?p=a02f65c68167)**
